@@ -2,7 +2,6 @@
 
 from glob import iglob
 import shlex
-from toposort import toposort_flatten
 from os.path import basename, dirname
 import sys
 from getpass import getuser
